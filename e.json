@@ -1,6 +1,13 @@
 {
   "info": {
     "url_png_icon_64x64": "https://raw.githubusercontent.com/CryptoRichBlog/p/main/icon.png",
-    "url_png_logo": "https://raw.githubusercontent.com/CryptoRichBlog/p/main/logo.png"
+    "url_png_logo": "https://raw.githubusercontent.com/CryptoRichBlog/p/main/logo.png",
+    "location": "Korea",
+    "social": {
+      "twitter_handle": "CryptoRichBlog"
+    },
+    "about": {
+      "me": "CryptoRich. KakaoTalk open chat https://open.kakao.com/o/giAfVArf / Naver Blog https://blog.naver.com/joseph_suan / X https://x.com/CryptoRichBlog"
+    }
   }
 }
