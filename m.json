@@ -1,0 +1,7 @@
+{
+  "name": "CryptoRich Stake Pool",
+  "description": "Cardano stake pool run by CryptoRich from Korea. 0% margin, minimum fixed fee. Bare-metal block producer, relays on two continents. Honest epoch reports. Talk to the operator directly on KakaoTalk open chat, Naver Blog and X. Links at crich.io.",
+  "ticker": "CRICH",
+  "homepage": "https://crich.io",
+  "extended": "https://raw.githubusercontent.com/CryptoRichBlog/p/main/e.json"
+}
